@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+
+# Dependency directories
+env/
+lib/
+bin/
+
+# Distribution/distutils
+build/
+dist/
+
+# Python egg metadata
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
